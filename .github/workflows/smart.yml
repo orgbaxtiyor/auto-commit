@@ -1,5 +1,5 @@
 name: Smart Daily Commits (UTC)
-
+ 
 on:
   schedule:
     - cron: "0 0 * * *"   # Har kuni UTC 00:00
